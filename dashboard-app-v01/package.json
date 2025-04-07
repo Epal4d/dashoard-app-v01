@@ -2,6 +2,7 @@
   "name": "dashboard-app-v01",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://Epal4d.github.io/dashboard-app-v01",
   "dependencies": {
     "@testing-library/dom": "^10.4.0",
     "@testing-library/jest-dom": "^6.6.3",
@@ -15,6 +16,8 @@
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
+    "predeploy": "yarn build",
+    "deploy": "gh-pages -d build",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
   },
