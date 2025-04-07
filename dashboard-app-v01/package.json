@@ -2,7 +2,7 @@
   "name": "dashboard-app-v01",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://epal4d.github.io/dashboard-app-v01",
+  "homepage": "https://epal4d.github.io/dashoard-app-v01",
   "dependencies": {
     "@testing-library/dom": "^10.4.0",
     "@testing-library/jest-dom": "^6.6.3",
