@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/dashboard-app-v01/static/css/main.f855e6bc.css",
-    "main.js": "/dashboard-app-v01/static/js/main.f08503b6.js",
-    "static/js/453.8bff9ec9.chunk.js": "/dashboard-app-v01/static/js/453.8bff9ec9.chunk.js",
-    "index.html": "/dashboard-app-v01/index.html",
-    "main.f855e6bc.css.map": "/dashboard-app-v01/static/css/main.f855e6bc.css.map",
-    "main.f08503b6.js.map": "/dashboard-app-v01/static/js/main.f08503b6.js.map",
-    "453.8bff9ec9.chunk.js.map": "/dashboard-app-v01/static/js/453.8bff9ec9.chunk.js.map"
+    "main.css": "/dashoard-app-v01/static/css/main.f855e6bc.css",
+    "main.js": "/dashoard-app-v01/static/js/main.67650eeb.js",
+    "static/js/453.8bff9ec9.chunk.js": "/dashoard-app-v01/static/js/453.8bff9ec9.chunk.js",
+    "index.html": "/dashoard-app-v01/index.html",
+    "main.f855e6bc.css.map": "/dashoard-app-v01/static/css/main.f855e6bc.css.map",
+    "main.67650eeb.js.map": "/dashoard-app-v01/static/js/main.67650eeb.js.map",
+    "453.8bff9ec9.chunk.js.map": "/dashoard-app-v01/static/js/453.8bff9ec9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f855e6bc.css",
-    "static/js/main.f08503b6.js"
+    "static/js/main.67650eeb.js"
   ]
 }
